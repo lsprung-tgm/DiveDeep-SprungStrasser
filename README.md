@@ -1,5 +1,5 @@
 # DiveDeep-SprungStrasser
-Team:#
+Team:
 Lukas Sprung
 Dominik Strasser
 Wassersport- und Tauchshop, erstellt mit dem CMS Joomla.
