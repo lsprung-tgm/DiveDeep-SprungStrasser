@@ -1,4 +1,7 @@
 # DiveDeep-SprungStrasser
+Team:#
+Lukas Sprung
+Dominik Strasser
 Wassersport- und Tauchshop, erstellt mit dem CMS Joomla.
 
 Verwendetes Template: Sunny Blue [1]<br />
